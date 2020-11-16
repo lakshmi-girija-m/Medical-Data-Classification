@@ -7,7 +7,7 @@ Three medical datasets (csv files) were used in this project:
 
 The fourth dataset is in prescription format. There were 100 to 120 prescriptions about medical history of patients. These prescriptions contain diseases, treatments and allergies related to the patients. A csv file was created with this information using nltk library. CRF and LSTM algorithm was used for classification of the data. More information about dataset can be obtained [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168320/).
 
-### : <h3>
+### About the Project: <h3>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Measures for evaluating performance (for each dataset) were:
 * F1 scores over 10 runs
  ![F1_1](/Images/F1_1.png)   ![F1_2](/Images/F1_2.png)   ![F1_3](/Images/F1_3.png)
@@ -37,4 +37,5 @@ __Note__: Run Anaconda Prompt as Administrator and execute these commands.
 ### Code Walk through: <h3>
 * 
  
-### Credits: <h3>
+### Proposed Paper: <h3>
+
