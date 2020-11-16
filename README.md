@@ -25,7 +25,6 @@ You can refer this [link](https://kegui.medium.com/how-to-install-keras-contrib-
 conda install -c conda-forge seqeval
 ```
 __Note__: Run Anaconda Prompt as Administrator and execute these commands.
- 
 
 ## Deatils of the Project: <h2>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Genetic algorithms technique was used for optimization. We observe that __Random Forest__ algorithm preforms well for all datsets. Measures for evaluating performance (for each dataset) were:
@@ -44,7 +43,7 @@ This project evaluates performance of machine learning algorithms based on their
  
 For prescrption dataset, CRF and LSTM algorithm was used for classification of the data. Medical terms in the prescriptions were classified into three classes: problem (P), treatment (M) and test (T).
 <div align="center">
-  <img src="/Images/NLP.png" height="300" width="390">
+  <img src="/Images/NLP.png" height="200" width="590">
 </div>
 
 ## Proposed Paper: <h3>
