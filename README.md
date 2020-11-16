@@ -36,6 +36,6 @@ __Note__: Run Anaconda Prompt as Administrator and execute these commands.
  
 ### Code Walk through: <h3>
 * 
- 
+
 ### Proposed Paper: <h3>
 
