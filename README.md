@@ -11,7 +11,7 @@ The fourth dataset is in prescription format. There were 100 to 120 prescription
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168320/
 
 #### Installing required librarires: <h4>
-* Installing keras and tenserflow:
+* Installing __keras__ and __tenserflow__:
 ```
 conda install keras==2.2.4
 conda install tensorflow==1.13.1
