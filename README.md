@@ -10,7 +10,7 @@ The fourth dataset is in prescription format. There were 100 to 120 prescription
 ### About the Project: <h3>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Measures for evaluating performance (for each dataset) were:
 * F1 scores over 10 runs
- ![F1_1](/Images/F1_1.png = 24x48)   ![F1_2](/Images/F1_2.png = 24x48)   ![F1_3](/Images/F1_3.png = 24x48)
+ ![F1_1](/Images/F1_1.png =24x48)   ![F1_2](/Images/F1_2.png =24x48)   ![F1_3](/Images/F1_3.png =24x48)
 * F1 score by varying size of test set
  ![Test_1](/Images/Test_1.png)   ![Test_2](/Images/Test_2.png)   ![Test_3](/Images/Test_3.png)
 We observe that Random Forest algorithm preforms well for all datsets.
