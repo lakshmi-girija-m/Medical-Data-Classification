@@ -1,7 +1,7 @@
 # Medical Data Classification
-##### Introduction: <h4>
+#### Introduction: <h5>
 
-#### About Dataset: <h4>
+#### About Dataset: <h6>
 Three medical datasets (csv files) were used in this project:
 * diabetic_data.csv - Identifying patients with high risk of readmission within a period of 30 days
 * rhc.csv - Identifying patients who have received RHC have survived or not
