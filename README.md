@@ -7,7 +7,7 @@ Three medical datasets (csv files) were used in this project:
 * rhc.csv - Identifying patients who have received RHC have survived or not
 * vlbw.csv - Identifying infants with very low birth weight have survived or not
 
-The fourth dataset is in prescription format. There are about 100 to 120 prescriptions about medical history of patients. These prescriptions contain diseases, treatments and allergies related to the patients. A csv file was created with this information using nltk library. CRF and LSTM algorithm was used for classification of the data. More information about dataset can be obtained in the following link:
+The fourth dataset is in prescription format. There were 100 to 120 prescriptions about medical history of patients. These prescriptions contain diseases, treatments and allergies related to the patients. A csv file was created with this information using nltk library. CRF and LSTM algorithm was used for classification of the data. More information about dataset can be obtained in the following link:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168320/
 
 #### Installing required librarires: <h4>
