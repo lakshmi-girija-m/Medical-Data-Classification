@@ -19,7 +19,7 @@ This project evaluates performance of machine learning algorithms based on their
   <img src="/Images/Test_1.png" height="300" width="390"><img src="/Images/Test_2.png" height="300" width="390"><img src="/Images/Test_3.png" height="300" width="390">
 </div>
 
-We observe that Random Forest algorithm preforms well for all datsets.
+We observe that __Random Forest__ algorithm preforms well for all datsets.
 
 ### Installing required librarires: <h3>
 * Installing __keras__ and __tenserflow__:
