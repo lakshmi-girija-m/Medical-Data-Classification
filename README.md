@@ -13,14 +13,14 @@ The fourth dataset is in prescription format. There were 100 to 120 prescription
 conda install keras==2.2.4
 conda install tensorflow==1.13.1
 ```
-  * Installing __keras-contrib__:
+* Installing __keras-contrib__:
 ```
 git clone https://www.github.com/keras-team/keras-contrib.git
 cd keras-contrib
 python setup.py install
 ```
 You can refer this [link](https://kegui.medium.com/how-to-install-keras-contrib-7b75334ab742) for detailed step by step process.
-  * Installing __seqeval__:
+* Installing __seqeval__:
 ```
 conda install -c conda-forge seqeval
 ```
@@ -32,10 +32,12 @@ This project evaluates performance of machine learning algorithms based on their
  <div align="center">
   <img src="/Images/F1_1.png" height="300" width="390"><img src="/Images/F1_2.png" height="300" width="390"><img src="/Images/F1_3.png" height="300" width="390">
  </div>
-* F1 score by varying size of test set
+ 
+ * F1 score by varying size of test set
 <div align="center">
   <img src="/Images/Test_1.png" height="300" width="390"><img src="/Images/Test_2.png" height="300" width="390"><img src="/Images/Test_3.png" height="300" width="390">
 </div>
+
 * F1 score for different encoding techniques:
 <div align="center">
   <img src="/Images/Encoding_1.png" height="300" width="390"><img src="/Images/Encoding_2.png" height="300" width="390"><img src="/Images/Encoding_3.png" height="300" width="390">
