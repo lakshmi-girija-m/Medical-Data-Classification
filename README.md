@@ -1,5 +1,5 @@
 # Medical Data Classification
-## About Dataset: <h2>
+### About Dataset: <h3>
 Three medical datasets (csv files) were used in this project:
 * diabetic_data.csv - Identifying patients with high risk of readmission within a period of 30 days
 * rhc.csv - Identifying patients who have received RHC have survived or not
@@ -7,7 +7,7 @@ Three medical datasets (csv files) were used in this project:
 
 The fourth dataset is in prescription format. There were 100 to 120 prescriptions about medical history of patients. These prescriptions contain diseases, treatments and allergies related to the patients. A file named "Concepts" contains indices of medical terms in the prescription along with their tags (problem, treatment or test). A csv file was created with this information using nltk library. CRF and LSTM algorithm was used for classification of the data. More information about dataset can be obtained [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168320/).
 
-## Installing required librarires: <h2>
+### Installing required librarires: <h3>
 * Installing __keras__ and __tenserflow__:
 ```
 conda install keras==2.2.4
@@ -26,7 +26,7 @@ conda install -c conda-forge seqeval
 ```
 __Note__: Run Anaconda Prompt as Administrator and execute these commands.
 
-## Deatils of the Project: <h2>
+### Deatils of the Project: <h3>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Genetic algorithms technique was used for optimization. We observe that __Random Forest__ algorithm preforms well for all datsets. Measures for evaluating performance (for each dataset) were:
 * F1 scores over 10 runs
  <div align="center">
@@ -46,5 +46,5 @@ For prescrption dataset, CRF and LSTM algorithm was used for classification of t
   <img src="/Images/NLP.png" height="200" width="590">
 </div>
 
-## Proposed Paper: <h3>
+### Proposed Paper: <h3>
 
