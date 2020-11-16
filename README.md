@@ -16,15 +16,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168320/
 conda install keras==2.2.4
 conda install tensorflow==1.13.1
 ```
-  * Installing keras-contrib:
+  * Installing __keras-contrib__:
 ```
 git clone https://www.github.com/keras-team/keras-contrib.git
 cd keras-contrib
 python setup.py install
 ```
   You can refer this [link](https://kegui.medium.com/how-to-install-keras-contrib-7b75334ab742)
-  * Installing seqeval:
+  * Installing __seqeval__:
 ```
 conda install -c conda-forge seqeval
 ```
-Note: Run Anaconda Prompt as Administrator and execute these commands.
+__Note__: Run Anaconda Prompt as Administrator and execute these commands.
