@@ -15,7 +15,10 @@ This project evaluates performance of machine learning algorithms based on their
  </div>
  
 * F1 score by varying size of test set
- ![Test_1](/Images/Test_1.png)   ![Test_2](/Images/Test_2.png)   ![Test_3](/Images/Test_3.png)
+<div align="center">
+  <img src="/Images/Test_1.png" height="300" width="390"><img src="/Images/Test_2.png" height="300" width="390"><img src="/Images/Test_3.png" height="300" width="390">
+</div>
+
 We observe that Random Forest algorithm preforms well for all datsets.
 
 ### Installing required librarires: <h3>
