@@ -49,4 +49,4 @@ For prescrption dataset, CRF and LSTM algorithm was used for classification of t
 </div>
 
 ### Proposed Paper: <h3>
-
+You can find the proposed paper [here](https://drive.google.com/file/d/1Qzbqyrg81OGvobxF7fjzUYCsVMD3UUdL/view?usp=sharing). This paper was presented at NCBICS 2019 held on 13 - 14th May 2019 at CMRIT.
