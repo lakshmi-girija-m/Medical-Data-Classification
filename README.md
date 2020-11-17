@@ -38,7 +38,7 @@ This project evaluates performance of machine learning algorithms based on their
   <img src="/Images/Test_1.png" height="300" width="390"><img src="/Images/Test_2.png" height="300" width="390"><img src="/Images/Test_3.png" height="300" width="390">
 </div>
 
-* F1 score for different encoding techniques:
+* Effect of encoding on F1 score over 10 runs:
 <div align="center">
   <img src="/Images/Encoding_1.png" height="300" width="390"><img src="/Images/Encoding_2.png" height="300" width="390"><img src="/Images/Encoding_3.png" height="300" width="390">
 </div>
