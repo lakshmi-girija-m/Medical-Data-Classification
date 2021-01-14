@@ -28,12 +28,12 @@ __Note__: Run Anaconda Prompt as Administrator and execute these commands.
 
 ### Deatils of the Project: <h3>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Genetic algorithms technique was used for optimization. We observe that __Random Forest__ algorithm preforms well for all datsets. Measures for evaluating performance (for each dataset) were:
-* F1 scores over 10 runs
+* F1 scores over 10 runs:
  <div align="center">
   <img src="/Images/F1_1.png" height="300" width="390"><img src="/Images/F1_2.png" height="300" width="390"><img src="/Images/F1_3.png" height="300" width="390">
  </div>
  
- * F1 score by varying size of test set
+ * F1 score by varying size of test set:
 <div align="center">
   <img src="/Images/Test_1.png" height="300" width="390"><img src="/Images/Test_2.png" height="300" width="390"><img src="/Images/Test_3.png" height="300" width="390">
 </div>
