@@ -26,7 +26,7 @@ conda install -c conda-forge seqeval
 ```
 __Note__: Run Anaconda Prompt as Administrator and execute these commands.
 
-### Deatils of the Project: <h3>
+### About the Project: <h3>
 This project evaluates performance of machine learning algorithms based on their F1 scores. Genetic algorithms technique was used for optimization. We observe that __Random Forest__ algorithm preforms well for all datsets. Measures for evaluating performance (for each dataset) were:
 * F1 scores over 10 runs:
  <div align="center">
